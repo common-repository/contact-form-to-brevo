@@ -1,0 +1,215 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form to Brevo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-09 04:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.6.1\n"
+"X-Domain: contactform-to-brevo"
+
+#: inc/Base/CFB_PSD_Settings.php:188
+msgid "Acceptance Field for GDPR compliance : "
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Contact Form 7 Data to Brevo Contact lists."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:203
+msgid "Add Extra Fields."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:206
+msgid "Add Field"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:108
+msgid "Add List"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:226
+msgid "Adds Contacts to unlimited List ID's."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:225
+msgid "Adds “Contact Form 7” data to “Brevo”."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:110 inc/Base/CFB_PSD_Settings.php:207
+msgid "Available in Premium Version."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:18
+msgid "Brevo"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:96
+msgid "Brevo API KEY"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:103
+msgid "Brevo Email List ID"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:88
+msgid "Brevo Settings"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:69
+msgid "Brevo Setttings"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:190
+msgid "Choose Field"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contact Form to Brevo"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Integration.php:37
+msgid ""
+"Contact Form to Brevo requires Contact form 7 to be installed and active."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:125
+msgid "Email Field* : "
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:71
+msgid "Enable Brevo for this form."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:141
+msgid "First Name Field : "
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:139
+msgid ""
+"Following fields are optional select if available in form, otherwise leave "
+"unselected. Only email field is required."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:78
+msgid "Form Fields"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:231
+msgid "GDPR acceptance field"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:75
+msgid "General Settings"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:111 inc/Base/CFB_PSD_Settings.php:208
+#: inc/Base/CFB_PSD_Settings.php:238
+msgid "Get Pro Version"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Integration.php:43
+msgid "Go Pro"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/contactform-to-brevo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/sagar-giri-5bb771130/"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:243
+msgid "If you are loving our plugin please give us nice rating."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:156
+msgid "Last Name Field : "
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:232
+msgid "Life Time Free Updates & Support."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:229
+msgid "Option to add Tags"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:228
+msgid "Option to add Unlimited Fields."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:227
+msgid "Option to select “Contact Form 7” fields for “Brevo” list."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:171
+msgid "Phone Number Field : "
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:215
+msgid "Please Add Contact Form Tags First!"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:242
+msgid "Please Spread Your Love With 5 Star Rating."
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:222
+msgid "Pro Features"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:81
+msgid "Pro Version"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:245
+msgid "Rate Now"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sagar Giri"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:127
+msgid "Select field name for email"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:143
+msgid "Select field name for first name"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:158
+msgid "Select field name for last name"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:173
+msgid "Select field name for Phone"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:119
+msgid "Select form fields"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:230
+msgid "Supports Contact Form 7 Special Mail Tags"
+msgstr ""
+
+#: inc/Base/CFB_PSD_Settings.php:93
+msgid "Update existing contacts"
+msgstr ""
+
+#. %s: links
+#: inc/Base/CFB_PSD_Settings.php:99
+#, php-format
+msgid "You can get API key like %s."
+msgstr ""

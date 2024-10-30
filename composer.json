@@ -1,0 +1,10 @@
+{   
+    "require": {
+        "getbrevo/brevo-php": "2.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "CFB_PSD\\": "./inc"
+        }
+    }
+}

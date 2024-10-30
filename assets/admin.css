@@ -1,0 +1,158 @@
+
+div#cfb-psd-settings {
+    margin-top: 30px;
+    width: 98%;
+}
+.clear {
+    clear: both;
+}
+#cfb-psd-settings .fleft{
+    float: left;
+}
+#cfb-psd-settings em{
+    display: block;
+    padding-left: 5px;
+}
+#cfb-psd-settings label{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+/* Tabs */
+
+
+#cfb-psd-settings .cfb-psd-settings-tab {
+    display: block;
+}
+
+#cfb-psd-settings .cfb-psd-settings-tab ul {
+    margin: 0px;
+    padding: 0;
+    position: relative;
+    z-index: 2;
+}
+
+#cfb-psd-settings .cfb-psd-settings-tab ul li {
+    border: 1px solid #e2e2e2;
+    border-width: 1px 1px 0;
+    margin: 0 3px 0 0;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    background-color: #d5d5d5;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+#cfb-psd-settings .cfb-psd-settings-tab ul li.active {
+    background-color: #fff;
+}
+
+#cfb-psd-settings .tab-pane {
+    padding: 30px 20px;
+    background-color: #fff;
+    border: 1px solid #e2e2e2;
+    border-width: 0 1px 1px;
+}
+
+
+
+#cfb-psd-settings input[type=text],
+#cfb-psd-settings input[type=number],
+#cfb-psd-settings select,
+#cfb-psd-settings textarea {
+    height: initial;
+    margin: 5px;
+    padding: 7px;
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 150px;
+}
+
+#cfb-psd-settings input[type=number] {
+    width: 90px;
+    text-align: center;
+    min-width: initial;
+}
+
+#cfb-psd-settings input[type=radio],
+#cfb-psd-settings input[type=checkbox] {
+    min-width: initial;
+    width: 25px;
+    height: 25px;
+}
+
+#cfb-psd-settings input[type=checkbox]:checked:before {
+    margin: 0;
+}
+
+.cfb-psd-auto-settings .products-meta-section-wrapper h3 {
+    margin: 0 0 10px;
+}
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.cfb-psd-main-settings .general-settings-section{
+    float: left;
+    width: 46%;
+}
+
+#cfb-psd-settings .delet-btn{
+    padding-top: 25px;
+}
+#cfb-psd-settings .delet-btn .button {
+    background: #c52929;
+    color: #fff;
+    border-color: #c52929;
+}
+#cfb-psd-settings .delet-btn .button:hover {
+    background: #f30505;
+    color: #fff;
+    border-color: #f30505;
+}
+#cfb-psd-settings .add-button{
+    display: block;
+    clear: both;
+    padding-top: 24px;
+}
+#cfb-psd-settings .add-button .button{
+    background: #0085ba;
+    color: #fff;
+    border-color: #0085ba;
+}
+#cfb-psd-settings .add-button .button:hover{
+    background: #00b1f7;
+    color: #fff;
+    border-color: #00b1f7;
+}
+#cfb-psd-settings .contact-title{
+    padding-top: 12px;
+}
+#cfb-psd-settings .single-contact, .single-section-title{
+    display: inline-block;
+    width: 100%;
+    padding-top: 12px;
+}
+#cfb-psd-settings .form-fields{
+    display: inline-block;
+    width: 96%;
+}
+#cfb-psd-settings .form-fields label {
+    width: 35%;
+    padding-top: 13px;
+    padding-right: 25px;
+}
+#cfb-psd-settings .form-fields select {
+    width: 60%;
+}
+.pro{
+    color: red;
+}
